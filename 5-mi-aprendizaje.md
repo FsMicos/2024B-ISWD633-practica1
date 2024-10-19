@@ -1,3 +1,2 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado al realizar la práctica también se debe documentar.
+#Mis Conocimientos
+Antes de esta práctica, no contaba con conocimientos en Docker, pero ahora, gracias a la introducción a conceptos básicos de esta tecnología en esta practica, entiendo cómo levantar imágenes de manera más fácil y administrarlas en contenedores, así como configurar servidores web. Asi mismo he aprendido a manipular la configuración de estos contenedores, así como a inspeccionarlos, eliminarlos y detener las imágenes o contenedores creados, lo que me brinda un control total sobre mi infraestructura y me permite replicar entornos de producción de manera eficiente. Espero poder entender mejor la herramienta para mejora la portabilidad y la consistencia del desarrollo de aplicaciones, con el fin de poder aplicarlo en devops
